@@ -418,6 +418,14 @@ header #menu{
     line-height: 2;
 }
 
+.teacher p img {
+    vertical-align: middle;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+
 .contact-container{
     background:#000;
 }
